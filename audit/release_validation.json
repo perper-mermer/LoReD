@@ -1,0 +1,25 @@
+{
+  "canonical_prediction_mismatches": {
+    "Fixed-Max": 0,
+    "Calibrated-Max": 0,
+    "StatLR-2": 0,
+    "StatLR-4": 0,
+    "LoReD": 0,
+    "LoReD+Task": 0,
+    "Task-Conditioned LoReD": 0
+  },
+  "raw_ragtruth_numeric_inputs_byte_identical": {
+    "development": true,
+    "test": true
+  },
+  "five_seed_max_error_vs_rounded_reference": 4.999315024178941e-07,
+  "verifier_macro_f1_max_error": 0.0,
+  "contract_tests": "5 passed",
+  "CLI_help_checks": "all passed",
+  "python_syntax_checks": "all passed",
+  "credential_and_personal_path_scan": "passed",
+  "GPU_forward_rerun": "not executed during release packaging",
+  "API_rerun": "not executed; archived 999-response predictions evaluated",
+  "complete_cached_score_reproduction": "executed",
+  "notes": "Original special threshold selection is documented in PROTOCOL.md. Numeric derived data only; upstream weights and raw text excluded."
+}

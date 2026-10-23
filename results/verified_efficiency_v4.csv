@@ -1,0 +1,11 @@
+﻿method,length_bin,n_responses,median_us,p95_us,mean_us,responses_per_second_from_mean
+AB_full_decision,overall,2700,114.9,122.15,115.305333,8672.626
+AB_full_decision,short_le5,1056,114.8,122.3,115.259186,8676.098
+AB_full_decision,six,409,114.75,121.58,115.059291,8691.171
+AB_full_decision,medium_7_9,719,114.85,121.76,115.22267,8678.848
+AB_full_decision,long_gt9,516,115.4,122.4625,115.709981,8642.297
+ABC_full_decision,overall,2700,237.95,256.55,239.232537,4180.033
+ABC_full_decision,short_le5,1056,237.825,256.275,238.90161,4185.824
+ABC_full_decision,six,409,237.4,255.37,238.640587,4190.402
+ABC_full_decision,medium_7_9,719,237.8,256.065,239.320445,4178.498
+ABC_full_decision,long_gt9,516,238.7,257.4625,240.256492,4162.218

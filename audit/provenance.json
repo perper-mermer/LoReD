@@ -1,0 +1,11 @@
+{
+  "upstream_script_sha256": "0606d62dd763e7ccdf69b8c550ece88f6a9875b6636ebea7e07a22c12fd44aea",
+  "extraction": "Function definitions preserved from corrected v4 evaluator; top-level experiment execution excluded.",
+  "label_convention": "Public frozen prediction table: gold_hall=1 means hallucination. Historical training functions use y_sup=1 for supported.",
+  "files": {
+    "canonical_matched_predictions.csv": "07fadbdd2c258e7b7a1c5ec8fc319a932d8479cf4789bfd17b12d3df96cd06e4",
+    "canonical_main_results.csv": "d920d64083fe573110eb04ca844a6ea11d6232f18bd037d595527253f04fdeff",
+    "canonical_pairwise_bootstrap.csv": "46816ca9eff02f65cfbaedefba46ea2fc7bdc20df3d241dedf917cc67d00fec4",
+    "five_seed_summary_corrected.csv": "0b0880638e34d5ebbea5c78c21091e376b4b9642aac5d16cd5e8f275701704c1"
+  }
+}
