@@ -1,0 +1,36 @@
+{
+  "reproduced_files_byte_identical": {
+    "all_results.csv": true,
+    "development_oof_predictions.csv": true,
+    "development_selection.csv": true,
+    "folds.json": true,
+    "parameters.json": true,
+    "predictions.csv": true,
+    "pairwise_bootstrap.csv": true,
+    "test_feature_ablation.csv": true,
+    "halubench_frozen_controls.csv": true,
+    "task_length_strata.csv": true,
+    "canonical_prediction_check.json": true,
+    "archive_reproduction_check.csv": true
+  },
+  "original_primary_files_unchanged": {
+    "src": true,
+    "benchmarks": true,
+    "results": true
+  },
+  "status": "LOCAL_VALIDATION_PASSED_REMOTE_UPLOAD_PENDING_AUTHENTICATION",
+  "base_commit": "b517946dbcdd153f5258e1e4a8a415dd9d48b010",
+  "base_branch": "main",
+  "unit_tests_passed": 9,
+  "frozen_metric_records": 20,
+  "frozen_prediction_rows": 97025,
+  "canonical_predictions_checked": 2700,
+  "matched_canonical_prediction_disagreements": 2,
+  "development_diagnostic_predictions_checked": 4491,
+  "timing_records_checked": 13500,
+  "figure_data_export_checked": true,
+  "figure_render_visually_checked": true,
+  "new_parameter_search": false,
+  "remote_modified": false,
+  "scope": "Additive frozen evidence and portable reproduction; no model or threshold selection."
+}

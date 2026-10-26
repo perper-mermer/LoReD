@@ -1,0 +1,13 @@
+{
+  "utc": "2026-10-24T04:08:36.253418+00:00",
+  "reason": "The released external source_id is halubench:<response_id>. Original assertion incorrectly expected the unprefixed ID. The mapping is one-to-one, so resampling units remain responses.",
+  "scope": "One schema assertion only; no data, grouping, feature, model, parameter, threshold, metric, seed, or comparison changes.",
+  "original_stop_retained": "STOP_evaluate.json",
+  "original_code": "6d612c3e206e40394c80b0908e95d39c32930f24eb7557878570ba979b53fe28",
+  "corrected_evaluator": "a3632dcb12dc6cf3044178839613a669a5a1ae8a32d787a660ef52fcbf9bba27",
+  "frozen_training_lock": "066811f0812f2bdd2093cbbda62267f0acaacf731266d19d40b3dfc22d10af4a",
+  "models_unchanged": "6e274e741dbcbba8409f5014207bc2cc8d2db8904466312b897dfd55b2020ea3",
+  "before": "assert all(r[\"source_id\"] == r[\"response_id\"] for r in data[\"halubench_full\"])",
+  "after": "assert all(r[\"source_id\"] == \"halubench:\" + r[\"response_id\"] for r in data[\"halubench_full\"])",
+  "evaluation_performance_seen_by_failed_run": false
+}

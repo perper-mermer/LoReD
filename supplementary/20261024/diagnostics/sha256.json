@@ -1,0 +1,19 @@
+{
+  "PROTOCOL.md": "a2ffec9e394c7cd3fdbf89f93062ab2414fc961e3dbf63f9972c4e6ee04c90a8",
+  "README.md": "3d8e8e5ebd83afc4008b75dddf2cd634446b79bd027ec62ddc58decae6b772ca",
+  "REPORT.md": "dc4c22ad855739808a027705d3c47f42d1d699449dcadf4228804072953d3fb9",
+  "results/canonical_development_thresholds.json": "78fcb7307034b5c90b17f9315d19bb9c1e23e458d0645eeb238f8ed40f0602d7",
+  "results/current_hardware_timing.csv": "6d2013cf49e97cda3aa1f88ba30ccacf529299e1b15f3a2d28be8379180c53bf",
+  "results/current_timing_per_response.csv": "d2f2f28a132c75f98783d3c5106b6f44b64522083671304db2f1f41ec7ab88b3",
+  "results/historical_cpu_timing.csv": "47d939a6b5b236f705a99effdc10b17006540c44e082fcac1ca7fe4437f4639e",
+  "results/parameter_sensitivity.csv": "baf9845e6ff2c127923eed1b4dd5ef55a6cd45a6054407a4ea73656a43a69fd6",
+  "results/qa.json": "014fc53787e1ad54b6c5933e9a5a3f0626081a59de8887c93f58a807cc2178c1",
+  "results/sensitivity_development_predictions.csv": "442a5fc4b082c8031116ca5b1958f2e5115969ac8e2dc0ddb5d32faa21935cd9",
+  "results/sensitivity_folds.json": "495dcb90eb91907cca87d65b3990900003000c1c7743b9303848b7c3bdc9c46f",
+  "results/sensitivity_outer_folds.csv": "36f9e8972b9462c7466412146e86948f7356833e703c20f2cc02dcafcee13733",
+  "results/timing_environment.json": "9dc48501855eee39c6e8bee487648fd1d76de22abd2f19cc8b39a50e670737fc",
+  "results/timing_scope_clarification.json": "8a45cc07bbb10c1ed2a8832f33e57b1c420b48bce9e0af0c483c7b10d7ea5288",
+  "results/verified_positive_case.json": "d2527c2ccf4aa42aca95dfa477790e0ba649e936c3f9ef28515e76025e7e42f0",
+  "scripts/decision_timing_windows.py": "c244a131e84c0a43c38d6034b178ea8bf82c3e1cdbbaa4aa65297e7b6128cb81",
+  "scripts/development_sensitivity.py": "7740cbe292b580f899498fd0d8da637d19c593be5a81d6dba3e4c21d5c01a8f4"
+}

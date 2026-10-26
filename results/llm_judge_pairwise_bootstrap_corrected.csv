@@ -1,0 +1,6 @@
+﻿comparison,method_a,method_b,delta_macro_f1_pp,ci95_low_pp,ci95_high_pp,prob_gt_zero,p_plus_one,n_sources,n_bootstrap,seed,p_holm
+AB_vs_DeepSeek_Direct,AB_LRDC,DeepSeek_Direct,7.933833,4.192304,11.668158,1.0,0.0002,418,10000,20261020,0.001
+ABC_vs_DeepSeek_Direct,ABC_full,DeepSeek_Direct,9.557904,5.855349,13.218881,1.0,0.0002,418,10000,20261020,0.001
+ABC_vs_AB,ABC_full,AB_LRDC,1.624071,-0.562668,3.843483,0.9255,0.149185,418,10000,20261020,0.225977
+A_vs_DeepSeek_Direct,A_fixed_max,DeepSeek_Direct,-2.60878,-5.944544,0.593643,0.0558,0.112989,418,10000,20261020,0.225977
+DeepSeek_Direct_vs_Sentence_Local,DeepSeek_Direct,DeepSeek_Sentence_Local,6.135125,2.537807,9.773251,0.9996,0.001,418,10000,20261020,0.003

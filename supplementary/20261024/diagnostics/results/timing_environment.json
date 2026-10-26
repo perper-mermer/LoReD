@@ -1,0 +1,74 @@
+{
+  "utc": "2026-10-24T12:35:33.204418+00:00",
+  "cpu_model": "Intel(R) Core(TM) i7-14700HX",
+  "physical_cores": 20,
+  "logical_cores": 28,
+  "ram_gib": 31.78112030029297,
+  "available_ram_gib": 16.176124572753906,
+  "free_disk_gib": 87.79840850830078,
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "sklearn": "1.7.2",
+  "thread_env": {
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "mkl",
+      "num_threads": 1,
+      "prefix": "mkl_rt",
+      "filepath": "D:\\anaconda\\Library\\bin\\mkl_rt.2.dll",
+      "version": "2025.0-Product",
+      "threading_layer": "intel"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "libiomp",
+      "filepath": "D:\\anaconda\\Library\\bin\\libiomp5md.dll",
+      "version": null
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "vcomp",
+      "filepath": "D:\\anaconda\\vcomp140.dll",
+      "version": null
+    }
+  ],
+  "resource_note": "Current CPU/memory/disk queried directly; avoids unavailable Windows swap performance counters in the generic skill script.",
+  "threadpools_during_timing": [
+    {
+      "user_api": "blas",
+      "internal_api": "mkl",
+      "num_threads": 1,
+      "prefix": "mkl_rt",
+      "filepath": "D:\\anaconda\\Library\\bin\\mkl_rt.2.dll",
+      "version": "2025.0-Product",
+      "threading_layer": "intel"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "libiomp",
+      "filepath": "D:\\anaconda\\Library\\bin\\libiomp5md.dll",
+      "version": null
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "vcomp",
+      "filepath": "D:\\anaconda\\vcomp140.dll",
+      "version": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "utc": "2026-10-24T04:07:21.975350+00:00",
+  "frozen_files": {
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_frozen_validation_20261024\\models.joblib": "6e274e741dbcbba8409f5014207bc2cc8d2db8904466312b897dfd55b2020ea3",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_frozen_validation_20261024\\parameters.json": "8ba2615da4ba6a5cdb522708683e7795d52581d4a23a080768ab4af0a9d7a4c4",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_frozen_validation_20261024\\folds.json": "0173db798074c8b5d79ceaab64cca97bd6a090099e6c1152ef714f5400606304",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_frozen_validation_20261024\\development_selection.csv": "00890ab40de24eaa5419eeaf94e9f5b6a57e253f4b33aafe4d0145846112910d",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_frozen_validation_20261024\\development_oof_predictions.csv": "52d06e48a31196add994b3b66d1df9e8005afb1c769bdcf5082761c62e081dd9",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_frozen_validation_20261024\\pre_fit_lock.json": "e6de4fa89a0e931bf0e3621d370d9523695f21dd44c03c3d8eab82babf6f0314"
+  },
+  "inputs": {
+    "development": "a969c409dec7bb6a20aabfb87da14972d493efd33edbab6927065c20f4ba646b",
+    "ragtruth_test": "e028275f92d09d1085c345f9edf9f7313b1739393b09ac57484dff83ec0acf60",
+    "halubench_full": "f13398dc014833f33d09188aecc050742ae44bef95d3fc4c936503e4b4914434",
+    "halubench_multi": "4a1fd6db026b9fce31b7570cf0b3392634c128fe23e712913aea404ad2d06c14"
+  },
+  "code_and_protocol": {
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_frozen_validation_20261024\\run_validation.py": "6d612c3e206e40394c80b0908e95d39c32930f24eb7557878570ba979b53fe28",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_frozen_validation_20261024\\PROTOCOL.md": "46a8b7c082b55b72974e0229e34e9c22162a919754e5c9f6f2267cc2631f792a",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_GitHub\\src\\lored.py": "02340b608db987d6da0d19c7fb232c05f780d296efee853d2d360e7350623d29",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_GitHub\\src\\workflow.py": "dc44ae1e4eb9c0fc522430b04a1637c76c46f108af74b3f74eb54000d3976c37",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_GitHub\\results\\frozen_parameters.json": "224492c461903b228b7fb85251384461bc53202b4ff0947126a465d2447f8175",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_GitHub\\results\\canonical_matched_predictions.csv": "07fadbdd2c258e7b7a1c5ec8fc319a932d8479cf4789bfd17b12d3df96cd06e4",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_GitHub\\audit\\benchmark_sha256.json": "126f7a62b65ff49d6a0d43183f80e9bc9d76092a70c3e62415f7544cd4b6f382"
+  },
+  "thresholds": {
+    "F0": 0.5399999999999998,
+    "F1": 0.5699999999999997,
+    "F2": 0.5399999999999998,
+    "F3": 0.5499999999999998,
+    "F4": 0.48999999999999977,
+    "StatLR-2": 0.5699999999999997,
+    "StatLR-4": 0.5599999999999997,
+    "Fixed-Max": 0.5,
+    "Calibrated-Max": 0.8299999999999996,
+    "LoReD-canonical": 0.49
+  },
+  "status": "FITTED_AND_FROZEN_BEFORE_EVALUATION"
+}

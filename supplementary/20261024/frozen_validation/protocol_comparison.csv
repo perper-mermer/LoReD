@@ -1,0 +1,12 @@
+﻿item,canonical_LoReD,matched_F0_F4_StatLR,Calibrated_Max
+development pool,same frozen 499,same frozen 499,same frozen 499
+ID ordering,lexicographic,numeric,numeric (order-invariant threshold objective)
+training labels / risk,support=1; risk=class-0 probability,hallucination=1; risk=class-1 probability,hallucination=1; raw maximum risk
+splitter,5 outer / 4 inner StratifiedGroupKFold; seed20261010,same GroupKFold(5) source memberships across all seven configurations,no fitted model; raw development risks
+scaler,StandardScaler fitted within each training fold,same fold-local StandardScaler,none
+logistic regression,"balanced, C=.1, lbfgs, max_iter4000","balanced, C=.1, liblinear, max_iter2000, seed20261012",none
+threshold objective,"hall-F1; ties Macro-F1, BAcc, accuracy, proximity to .5",pooled development OOF Macro-F1; first maximum,development Macro-F1; first maximum
+threshold grid,"np.linspace(.1,.9,81), includes .90","np.arange(.1,.9,.01), excludes .90","np.arange(.1,.9,.01), excludes .90"
+final threshold,last outer fold's inner-selected threshold .49,"all-development OOF selection; F4 approximately .49, StatLR-4 .56",.83
+final refit,all development; seed20262009,all development; seed20261012,none
+external adaptation,none,none,none

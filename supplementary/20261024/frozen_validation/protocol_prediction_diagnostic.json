@@ -1,0 +1,8 @@
+{
+  "canonical_vs_matched_f4_prediction_disagreements": 2,
+  "n_test": 2700,
+  "max_absolute_probability_difference": 0.002280766609235929,
+  "mean_absolute_probability_difference": 0.0013545291571012347,
+  "canonical_threshold": 0.49,
+  "matched_threshold": 0.48999999999999977
+}

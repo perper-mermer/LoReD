@@ -1,0 +1,27 @@
+{
+  "response_id": "68",
+  "source_id": "15604",
+  "task": "Summary",
+  "gold_hall": 1,
+  "selection": "First numeric-ID candidate under predeclared fallback: both methods detect it.",
+  "source_check": "First-person commentary on Rand Paul; no mention of Elizabeth Warren.",
+  "response_check": "Generated response attributes the commentary to Senator Elizabeth Warren.",
+  "annotation": "Evident Baseless Info; raw characters [0,24)",
+  "annotated_span": "Senator Elizabeth Warren",
+  "max_risk": 0.9755070079118013,
+  "lored_risk": 0.6154856714691308,
+  "thresholds": {
+    "Fixed-Max": 0.5,
+    "LoReD": 0.49
+  },
+  "predictions": {
+    "Fixed-Max": 1,
+    "LoReD": 1
+  },
+  "scope": "Illustration, not independent relabeling or a unique LoReD correction.",
+  "raw_input_sha256": {
+    "responses": "e4c2e4ac24fff676d8984cc61c35d791612fadc58015335d97dd632375e18073",
+    "sources": "0dffc26ea9f3c1c3d7c7e8336b56ef1646e3cec876edffcca3c9c624d12d578b",
+    "prepared_rows": "8919404bbdf9ca3770d1e0fcb7f3971a98954c6915cb348d3a02a6070b47e7b5"
+  }
+}

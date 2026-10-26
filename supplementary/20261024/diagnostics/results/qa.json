@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "configs": 9,
+  "development_predictions_checked": 4491,
+  "parameter_variant_test_evaluations": 0,
+  "timing_records_checked": 13500,
+  "selected_case": "68",
+  "unique_LoReD_detection_claim": false,
+  "historical_parameters_or_results_changed": false
+}

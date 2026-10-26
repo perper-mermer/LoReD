@@ -1,0 +1,19 @@
+{
+  "benchmarks/halubench_full.jsonl": "f13398dc014833f33d09188aecc050742ae44bef95d3fc4c936503e4b4914434",
+  "benchmarks/halubench_full.manifest.json": "b51a3f96378abfc18ad56a96131d325129db96501b741d1fdc14314cb458f8d3",
+  "benchmarks/halubench_multi.jsonl": "4a1fd6db026b9fce31b7570cf0b3392634c128fe23e712913aea404ad2d06c14",
+  "benchmarks/hhem_development.jsonl": "54dd087ca9437b0993017e13519e0f482e0b3467c0a9f5255091700864cc9885",
+  "benchmarks/hhem_development.manifest.json": "138cc35ab74d91d9d7509d99c55587308d33b932067ae5c9691266707e0cb6ec",
+  "benchmarks/hhem_test.jsonl": "5da5fa31a4023646ad489e7a95bb53f70983213733ce7adf88b418bb871eceaa",
+  "benchmarks/hhem_test.manifest.json": "71b8fc8aff328862b3955990b1fb583032303e7cdca14641d7c6a340aab13ba2",
+  "benchmarks/llm_judge_predictions.jsonl": "7be42d4fcf686b1fb506d9cfef19f2c85a9b31eb98e533f5d6f26078fe4cd6f2",
+  "benchmarks/minicheck_development.jsonl": "0d1cd1eba40e34d4c56c26a5ed732bdc25122181702306bcfdfb22b758e81ef7",
+  "benchmarks/minicheck_development.manifest.json": "3f8f1f3057144771d88d95c4d5ce3dff66945fedf4adc3a4e18b8cfae92d0232",
+  "benchmarks/minicheck_test.jsonl": "c0332844c2f0f2aff10af66a60d679d3891add23c190d3d3cd69756466c942f4",
+  "benchmarks/minicheck_test.manifest.json": "1f492a0ece788080495f844ae75a5b9d2ff951d2f758da8b17d4ffb6781b5bc1",
+  "benchmarks/ragtruth_development.jsonl": "a969c409dec7bb6a20aabfb87da14972d493efd33edbab6927065c20f4ba646b",
+  "benchmarks/ragtruth_development.manifest.json": "a9cc63b715ddd6aa1ea347f9c5c90252609d70e79e3848a49dc5180c8fc89894",
+  "benchmarks/ragtruth_split_manifest.json": "2cdec90095355ec3ccb3a9902cf66a588c9607620b7f57be09568562ef977f4e",
+  "benchmarks/ragtruth_test.jsonl": "e028275f92d09d1085c345f9edf9f7313b1739393b09ac57484dff83ec0acf60",
+  "benchmarks/ragtruth_test.manifest.json": "e191ef8fea81c24f3852493acb1ce9a0d9201ba413be1debf2d03a7a94e9b5f3"
+}

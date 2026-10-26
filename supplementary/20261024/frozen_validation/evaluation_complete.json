@@ -1,0 +1,31 @@
+{
+  "utc": "2026-10-24T04:08:59.298294+00:00",
+  "status": "ALL_GATES_PASSED",
+  "canonical_prediction_mismatches": {
+    "Fixed-Max": 0,
+    "Calibrated-Max": 0,
+    "StatLR-2": 0,
+    "StatLR-4": 0,
+    "LoReD-canonical": 0
+  },
+  "input_hashes": {
+    "development": "a969c409dec7bb6a20aabfb87da14972d493efd33edbab6927065c20f4ba646b",
+    "ragtruth_test": "e028275f92d09d1085c345f9edf9f7313b1739393b09ac57484dff83ec0acf60",
+    "halubench_full": "f13398dc014833f33d09188aecc050742ae44bef95d3fc4c936503e4b4914434",
+    "halubench_multi": "4a1fd6db026b9fce31b7570cf0b3392634c128fe23e712913aea404ad2d06c14"
+  },
+  "frozen_artifacts_unchanged": true,
+  "archive_metric_checks": 15,
+  "all_archive_deltas_zero": true,
+  "configuration_selection_on_evaluation": false,
+  "feature_sets": [
+    "F0",
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "StatLR-2",
+    "StatLR-4"
+  ],
+  "bootstrap_families": 4
+}

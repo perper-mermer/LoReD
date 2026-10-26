@@ -1,0 +1,6 @@
+﻿method,n,repeats,median_us,p95_us,mean_per_response_median_us,responses_per_second_from_mean,cpu_model,blas_threads,scope
+Fixed-Max,2700,10,1.7,1.85,1.720148148148148,581345.2760313497,Intel(R) Core(TM) i7-14700HX,1,"cached NumPy risks, features, pipeline prediction, decision; no verifier/loading/dispatch"
+Calibrated-Max,2700,10,1.2,1.2000000000000002,1.1758888888888888,850420.4856845886,Intel(R) Core(TM) i7-14700HX,1,"cached NumPy risks, features, pipeline prediction, decision; no verifier/loading/dispatch"
+StatLR-2,2700,10,100.025,104.25,99.87857407407408,10012.157354773193,Intel(R) Core(TM) i7-14700HX,1,"cached NumPy risks, features, pipeline prediction, decision; no verifier/loading/dispatch"
+StatLR-4,2700,10,111.4,116.6,111.42348148148149,8974.768932939862,Intel(R) Core(TM) i7-14700HX,1,"cached NumPy risks, features, pipeline prediction, decision; no verifier/loading/dispatch"
+LoReD-canonical,2700,10,113.80000000000001,119.95,113.93762962962963,8776.731649154379,Intel(R) Core(TM) i7-14700HX,1,"cached NumPy risks, features, pipeline prediction, decision; no verifier/loading/dispatch"

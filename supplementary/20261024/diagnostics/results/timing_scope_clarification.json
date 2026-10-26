@@ -1,0 +1,5 @@
+{
+  "actual_scope": "Entire infer(name,risk_array) call, including lightweight method lookup/branching, features, pipeline prediction and decision.",
+  "excluded": "Loading, array construction, sentence verification and generic workflow.matrix all-feature dispatch.",
+  "note": "The shorthand no dispatch in the raw CSV/protocol means no generic dispatcher, not zero Python selection overhead. No measurements changed."
+}

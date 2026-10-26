@@ -1,0 +1,19 @@
+{
+  "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.3.5",
+  "sklearn": "1.7.2",
+  "joblib": "1.5.2",
+  "physical_cores": 20,
+  "logical_cores": 28,
+  "memory_gb": 31.78112030029297,
+  "available_memory_gb": 14.66250991821289,
+  "free_disk_gb": 87.98628997802734,
+  "blas_threads": {
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1"
+  },
+  "compute": "CPU, one BLAS thread; bootstrap batch 64; no GPU/API",
+  "resource_skill_fallback": "Bundled interpreter lacks psutil; Anaconda skill script failed on Windows swap performance counters. Native psutil memory/cpu/disk queries used without swap counters."
+}

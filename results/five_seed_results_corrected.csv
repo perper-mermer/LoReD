@@ -1,0 +1,26 @@
+﻿seed,method,macro_f1,bacc,hall_f1,auc,threshold,protocol
+20261020,L0_calibrated_max,70.842902,73.620772,66.404543,81.180535,0.83,seed-specific stratified OOF threshold; exploratory sensitivity
+20261020,L4_four_stat_lr,73.901218,75.845836,68.729792,83.156361,0.54,seed-specific stratified OOF threshold; exploratory sensitivity
+20261020,AB_LRDC,72.727037,75.042445,67.868409,82.140518,0.49,seed-specific stratified OOF threshold; exploratory sensitivity
+20261020,T2_LRDC_plus_task,74.77444,76.581841,69.561158,84.414893,0.49,seed-specific stratified OOF threshold; exploratory sensitivity
+20261020,ABC_full,74.325727,76.634592,69.628286,84.910291,0.47,seed-specific stratified OOF threshold; exploratory sensitivity
+20261021,L0_calibrated_max,70.842902,73.620772,66.404543,81.180535,0.83,seed-specific stratified OOF threshold; exploratory sensitivity
+20261021,L4_four_stat_lr,72.04323,74.875321,67.746171,83.156361,0.51,seed-specific stratified OOF threshold; exploratory sensitivity
+20261021,AB_LRDC,72.685185,74.521487,67.222222,82.140518,0.51,seed-specific stratified OOF threshold; exploratory sensitivity
+20261021,T2_LRDC_plus_task,74.528009,76.875138,69.89588,84.396002,0.46,seed-specific stratified OOF threshold; exploratory sensitivity
+20261021,ABC_full,73.259759,76.416859,69.407183,84.90842,0.43,seed-specific stratified OOF threshold; exploratory sensitivity
+20261022,L0_calibrated_max,70.842902,73.620772,66.404543,81.180535,0.83,seed-specific stratified OOF threshold; exploratory sensitivity
+20261022,L4_four_stat_lr,73.901218,75.845836,68.729792,83.156361,0.54,seed-specific stratified OOF threshold; exploratory sensitivity
+20261022,AB_LRDC,72.727037,75.042445,67.868409,82.140518,0.49,seed-specific stratified OOF threshold; exploratory sensitivity
+20261022,T2_LRDC_plus_task,75.070215,76.78883,69.798027,84.414652,0.5,seed-specific stratified OOF threshold; exploratory sensitivity
+20261022,ABC_full,75.006577,76.826281,69.84127,84.899728,0.49,seed-specific stratified OOF threshold; exploratory sensitivity
+20261023,L0_calibrated_max,70.842902,73.620772,66.404543,81.180535,0.83,seed-specific stratified OOF threshold; exploratory sensitivity
+20261023,L4_four_stat_lr,72.744504,75.280306,68.151448,83.156361,0.52,seed-specific stratified OOF threshold; exploratory sensitivity
+20261023,AB_LRDC,72.557428,75.088888,67.94301,82.140518,0.48,seed-specific stratified OOF threshold; exploratory sensitivity
+20261023,T2_LRDC_plus_task,74.596304,76.837688,69.854281,84.404753,0.47,seed-specific stratified OOF threshold; exploratory sensitivity
+20261023,ABC_full,75.446028,76.937697,69.971401,84.868766,0.51,seed-specific stratified OOF threshold; exploratory sensitivity
+20261024,L0_calibrated_max,70.842902,73.620772,66.404543,81.180535,0.83,seed-specific stratified OOF threshold; exploratory sensitivity
+20261024,L4_four_stat_lr,73.901218,75.845836,68.729792,83.156361,0.54,seed-specific stratified OOF threshold; exploratory sensitivity
+20261024,AB_LRDC,72.727037,75.042445,67.868409,82.140518,0.49,seed-specific stratified OOF threshold; exploratory sensitivity
+20261024,T2_LRDC_plus_task,74.497504,76.682514,69.680365,84.403848,0.47,seed-specific stratified OOF threshold; exploratory sensitivity
+20261024,ABC_full,72.664887,76.052011,69.030329,84.884096,0.42,seed-specific stratified OOF threshold; exploratory sensitivity

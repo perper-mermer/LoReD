@@ -1,0 +1,28 @@
+{
+  "utc": "2026-10-24T04:07:19.409694+00:00",
+  "inputs": {
+    "development": "a969c409dec7bb6a20aabfb87da14972d493efd33edbab6927065c20f4ba646b",
+    "ragtruth_test": "e028275f92d09d1085c345f9edf9f7313b1739393b09ac57484dff83ec0acf60",
+    "halubench_full": "f13398dc014833f33d09188aecc050742ae44bef95d3fc4c936503e4b4914434",
+    "halubench_multi": "4a1fd6db026b9fce31b7570cf0b3392634c128fe23e712913aea404ad2d06c14"
+  },
+  "code_and_protocol": {
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_frozen_validation_20261024\\run_validation.py": "6d612c3e206e40394c80b0908e95d39c32930f24eb7557878570ba979b53fe28",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_frozen_validation_20261024\\PROTOCOL.md": "46a8b7c082b55b72974e0229e34e9c22162a919754e5c9f6f2267cc2631f792a",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_GitHub\\src\\lored.py": "02340b608db987d6da0d19c7fb232c05f780d296efee853d2d360e7350623d29",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_GitHub\\src\\workflow.py": "dc44ae1e4eb9c0fc522430b04a1637c76c46f108af74b3f74eb54000d3976c37",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_GitHub\\results\\frozen_parameters.json": "224492c461903b228b7fb85251384461bc53202b4ff0947126a465d2447f8175",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_GitHub\\results\\canonical_matched_predictions.csv": "07fadbdd2c258e7b7a1c5ec8fc319a932d8479cf4789bfd17b12d3df96cd06e4",
+    "E:\\CodexData\\home\\.chatgpt-projects\\g-p-6aa92d267a6c8191bc80c1144c7a72b8\\deliverables\\LoReD_GitHub\\audit\\benchmark_sha256.json": "126f7a62b65ff49d6a0d43183f80e9bc9d76092a70c3e62415f7544cd4b6f382"
+  },
+  "predeclared_configurations": {
+    "F0": "max",
+    "F1": "max, max*log1p(n)",
+    "F2": "max, max*log1p(n), mean*log1p(n)",
+    "F3": "max, max*log1p(n), mean*log1p(n), run/n",
+    "F4": "max*log1p(n), mean*log1p(n), run/n",
+    "StatLR-2": "max, mean",
+    "StatLR-4": "max, mean, std(ddof=0), min"
+  },
+  "note": "No evaluation metrics computed before fitting; retrospective known benchmarks."
+}

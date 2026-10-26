@@ -1,0 +1,8 @@
+﻿method,features,threshold,selected_development_oof_macro_f1
+F0,max,0.5399999999999998,70.87450940927846
+F1,"max, max*log1p(n)",0.5699999999999997,71.53748513769722
+F2,"max, max*log1p(n), mean*log1p(n)",0.5399999999999998,75.06608639587363
+F3,"max, max*log1p(n), mean*log1p(n), run/n",0.5499999999999998,74.8330609856967
+F4,"max*log1p(n), mean*log1p(n), run/n",0.48999999999999977,74.34035031335368
+StatLR-2,"max, mean",0.5699999999999997,73.20724248602168
+StatLR-4,"max, mean, std(ddof=0), min",0.5599999999999997,74.47981475888452

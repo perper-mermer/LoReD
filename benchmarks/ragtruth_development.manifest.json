@@ -1,0 +1,11 @@
+{
+  "responses": 499,
+  "label": "gold_hall=1 means hallucination",
+  "score_key": "pair",
+  "score_field": "score",
+  "input_sha256": {
+    "rows": "1ccbe20646e67f0d230c965ea1f6cbc402325acdd8120467bb3c13af12829b01",
+    "scores": "62ce61b710c7d4ceec06c4c7eebeb24adca0306e5196b597f7abb6f466c5af08"
+  },
+  "output_sha256": "a969c409dec7bb6a20aabfb87da14972d493efd33edbab6927065c20f4ba646b"
+}
