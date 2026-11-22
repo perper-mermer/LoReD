@@ -5,13 +5,13 @@
 
 ## Overview / 项目简介
 
-This repository is a data and results archive for LoReD. It provides numeric benchmark caches, frozen parameters, archived predictions, experimental results, protocols, and provenance records.
+This repository is a results and experiment-record archive for LoReD. It provides frozen parameters, archived predictions, experimental results, protocols, and provenance records. Benchmark input datasets and their split/manifest files were removed from the current branch on 2026-11-22; historical commits can still contain them.
 
-本仓库为 LoReD 的数据与实验结果归档，提供数值数据缓存、冻结参数、归档预测、实验结果、实验协议及来源记录。
+本仓库为 LoReD 的实验结果与记录归档，提供冻结参数、归档预测、实验结果、实验协议及来源记录。实验输入数据集及配套划分、清单文件已于 2026-11-22 从当前分支移除；历史提交仍可能包含这些文件。
 
 ## Repository contents / 仓库内容
 
-- `benchmarks/`: numeric sentence risks, sentence lengths, sample IDs, labels, split manifests and archived judge outputs; no raw passages or generated-answer text.
+- `benchmarks/`: archived LLM judge predictions only; benchmark input datasets and their split/manifest files are no longer included.
 - `results/`: canonical metrics, matched predictions, frozen parameters and archived comparisons.
 - `supplementary/`: supplementary data, metrics, predictions, protocols, timing records and reports.
 - `audit/`: provenance and historical release-validation records.

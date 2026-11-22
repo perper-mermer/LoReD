@@ -1,5 +1,9 @@
 # Data and preprocessing / 数据与预处理
 
+> Current-branch update (2026-11-22): benchmark input datasets and their split/manifest files have been removed. Only archived judge predictions remain in `benchmarks/`. The descriptions, file paths and commands below document historical releases, not files or runnable code currently provided. Git history has not been purged.
+>
+> 当前分支更新（2026-11-22）：实验输入数据集及配套划分、清单文件已移除；`benchmarks/` 仅保留判断模型的归档预测。以下格式、路径和命令用于说明历史版本，不表示当前分支仍提供相应数据或可运行代码。未清除 Git 历史。
+
 `benchmarks/` contains derived numeric risks, word counts, IDs, task tags, labels, splits and archived judge predictions. No passages, claims or answers are included. File hashes: `audit/benchmark_sha256.json`. Original datasets and weights must be acquired separately under their original terms.
 
 缓存仅含派生数值与元数据，无原始段落、claim 或回答。原始数据和权重按原条款另行获取。

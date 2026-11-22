@@ -44,3 +44,31 @@ Git history is not rewritten; earlier commits can retain the deleted files. Loca
 - `supplementary/20261024/frozen_validation/archive/run_validation_v2.py`
 - `tests/test_contracts.py`
 - `tests/test_supplementary_release.py`
+
+## Dataset removal / 实验数据集移除（2026-11-22）
+
+Removed 8 numeric benchmark input datasets and 8 companion manifest/split files from the current main branch (16 files total). Frozen parameters, archived predictions, result tables and historical audit records are retained unchanged. Documentation was updated to distinguish historical dataset descriptions from current repository contents. The resulting tree has 74 files.
+
+已从当前 main 分支移除 8 个实验输入数值数据集及 8 个配套清单、划分文件，共 16 个文件。冻结参数、归档预测、结果表和历史审计记录原样保留；更新说明文档以区分历史数据说明与当前仓库内容。更新后共 74 个文件。
+
+This removes files only from the current branch snapshot. Git history is unchanged, deleted data remains recoverable from earlier commits, and local data/backups are untouched. This is not a full data erasure or history purge.
+
+本次仅移除当前分支快照中的文件，未改写历史；旧提交仍可恢复这些数据，本地数据及备份不受影响，不等同于彻底清除公开历史中的数据。
+
+Removed paths / 删除路径：
+- `benchmarks/halubench_full.jsonl`
+- `benchmarks/halubench_full.manifest.json`
+- `benchmarks/halubench_multi.jsonl`
+- `benchmarks/hhem_development.jsonl`
+- `benchmarks/hhem_development.manifest.json`
+- `benchmarks/hhem_test.jsonl`
+- `benchmarks/hhem_test.manifest.json`
+- `benchmarks/minicheck_development.jsonl`
+- `benchmarks/minicheck_development.manifest.json`
+- `benchmarks/minicheck_test.jsonl`
+- `benchmarks/minicheck_test.manifest.json`
+- `benchmarks/ragtruth_development.jsonl`
+- `benchmarks/ragtruth_development.manifest.json`
+- `benchmarks/ragtruth_split_manifest.json`
+- `benchmarks/ragtruth_test.jsonl`
+- `benchmarks/ragtruth_test.manifest.json`
