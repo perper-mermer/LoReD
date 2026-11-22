@@ -1,0 +1,15 @@
+pool,method,macro_f1,auc,n_responses
+multi,Fixed-Max,57.33,77.18,803
+multi,Tuned-Max,69.07,77.18,803
+multi,StatLR-2,65.75,79.33,803
+multi,StatLR-4,66.62,65.99,803
+multi,LoReD,68.79,75.77,803
+multi,LoReD+Task,69.41,75.77,803
+multi,Task-Conditioned LoReD,68.66,71.45,803
+full,Fixed-Max,79.27,83.62,13202
+full,Tuned-Max,75.54,83.62,13202
+full,StatLR-2,79.50,84.03,13202
+full,StatLR-4,72.94,82.44,13202
+full,LoReD,78.86,83.16,13202
+full,LoReD+Task,38.38,83.16,13202
+full,Task-Conditioned LoReD,42.07,87.77,13202

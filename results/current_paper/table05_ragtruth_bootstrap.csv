@@ -1,0 +1,5 @@
+method_a,method_b,delta_macro_f1_pp,ci95_low_pp,ci95_high_pp,p_raw,p_holm,seed,n_resampling_units,unit_type,n_bootstrap,origin
+LoReD,Fixed-Max,11.5427,9.8606,13.2180,0.000200,0.000800,20261026,450,source_id,10000,reported_pdf_rounded
+LoReD,Tuned-Max,1.8841,0.4401,3.3530,0.013999,0.041996,20261026,450,source_id,10000,reported_pdf_rounded
+LoReD,StatLR-2,0.3363,-0.7284,1.4051,0.545145,0.607539,20261026,450,source_id,10000,reported_pdf_rounded
+LoReD,StatLR-4,0.6838,-0.5911,1.9549,0.303770,0.607539,20261026,450,source_id,10000,reported_pdf_rounded

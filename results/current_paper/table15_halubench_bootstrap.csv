@@ -1,0 +1,9 @@
+pool,method_a,method_b,delta_macro_f1_pp,ci95_low_pp,ci95_high_pp,p_raw,p_holm,seed,n_resampling_units,unit_type,n_bootstrap,origin
+full,LoReD,Fixed-Max,-0.4018,-0.7579,-0.0589,0.022998,0.022998,20261027,13202,response_id,10000,reported_pdf_rounded
+full,LoReD,Tuned-Max,3.3199,2.7761,3.8857,0.000200,0.000800,20261027,13202,response_id,10000,reported_pdf_rounded
+full,LoReD,StatLR-2,-0.6395,-0.9356,-0.3554,0.000200,0.000800,20261027,13202,response_id,10000,reported_pdf_rounded
+full,LoReD,StatLR-4,5.9197,5.2695,6.5968,0.000200,0.000800,20261027,13202,response_id,10000,reported_pdf_rounded
+multi,LoReD,Fixed-Max,11.4625,8.0827,14.8809,0.000200,0.000800,20261028,803,response_id,10000,reported_pdf_rounded
+multi,LoReD,Tuned-Max,-0.2746,-3.0979,2.5099,0.846915,0.846915,20261028,803,response_id,10000,reported_pdf_rounded
+multi,LoReD,StatLR-2,3.0444,0.4718,5.7126,0.020998,0.062994,20261028,803,response_id,10000,reported_pdf_rounded
+multi,LoReD,StatLR-4,2.1718,-1.0590,5.3682,0.180382,0.360764,20261028,803,response_id,10000,reported_pdf_rounded

@@ -1,0 +1,8 @@
+method,QA,Summary,Data2txt,task_equal_macro_f1,pooled_macro_f1
+Fixed-Max,53.76,59.76,44.96,52.83,61.18
+Tuned-Max,66.50,64.02,62.71,64.41,70.84
+LoReD,65.80,68.21,59.18,64.40,72.73
+LoReD+Task,69.63,68.51,47.70,61.94,74.61
+Task-Conditioned LoReD,68.38,69.47,48.61,62.15,74.15
+StatLR-2,64.27,68.91,64.36,65.85,72.39
+StatLR-4,64.29,67.72,65.73,65.91,72.04

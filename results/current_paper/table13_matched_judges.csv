@@ -1,0 +1,10 @@
+method,macro_f1,bacc,n_responses,n_sources
+Fixed-Max,62.05,70.24,999,418
+Tuned-Max,70.39,73.65,999,418
+LoReD,72.60,75.38,999,418
+LoReD+Task,74.53,77.11,999,418
+Task-Conditioned LoReD,74.22,77.03,999,418
+StatLR-2,73.27,76.21,999,418
+StatLR-4,72.68,75.90,999,418
+DeepSeek Direct,64.66,72.42,999,418
+DeepSeek Sentence-Local,58.53,66.79,999,418

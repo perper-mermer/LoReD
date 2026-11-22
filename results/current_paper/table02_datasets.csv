@@ -1,0 +1,5 @@
+dataset,responses,sentences,source_groups,hallucinated_responses
+RAGTruth development,499,3689,499,225
+RAGTruth test,2700,18488,450,957
+HaluBench full,13202,14794,,6657
+HaluBench multi,803,2395,,393

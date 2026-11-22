@@ -1,0 +1,12 @@
+{
+  "source_pdf_sha256": "5130c7e25466fda9b5bd45bebe0d907edb74f373d3e7484da0ba8e1eb42c213a",
+  "ragtruth_table04_verified": true,
+  "verified_local_caches_not_uploaded": true,
+  "new_training": false,
+  "new_gpu_inference": false,
+  "new_threshold_search": false,
+  "bootstrap_tables": "transcribed from PDF; not newly recomputed",
+  "parameters_changed": "only StatLR-2 .540 and StatLR-4 .510",
+  "halubench_table14_verified": true,
+  "additional_table_differences": []
+}

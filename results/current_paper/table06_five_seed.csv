@@ -1,0 +1,5 @@
+method,macro_f1_mean,macro_f1_sample_sd,n_seeds
+Tuned-Max,70.84,0.00,5
+LoReD,72.68,0.07,5
+LoReD+Task,74.69,0.24,5
+Task-Conditioned LoReD,74.14,1.17,5

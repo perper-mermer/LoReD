@@ -1,0 +1,8 @@
+run,method,median_us,p95_us,responses_per_second
+historical,LoReD,114.90,122.15,8673
+historical,Task-Conditioned LoReD,237.95,256.55,4180
+current_hardware,Fixed-Max,1.70,1.85,581345
+current_hardware,Tuned-Max,1.20,1.20,850420
+current_hardware,StatLR-2,100.03,104.25,10012
+current_hardware,StatLR-4,111.40,116.60,8975
+current_hardware,LoReD,113.80,119.95,8777

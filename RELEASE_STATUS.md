@@ -72,3 +72,9 @@ Removed paths / 删除路径：
 - `benchmarks/ragtruth_split_manifest.json`
 - `benchmarks/ragtruth_test.jsonl`
 - `benchmarks/ragtruth_test.manifest.json`
+
+## Paper synchronization / 最新论文同步（2026-11-22）
+
+Current result exports and descriptions are aligned with the author-supplied LoReD_Chinese_Translation10.pdf. StatLR-2/4 use reported operating points .540/.510; their coefficients and other models are unchanged. Superseded root exports are preserved under results/historical_20261026/. Current paper numeric tables are indexed in results/current_paper/. Source-PDF rounded bootstrap values are labelled as reported, not newly computed. Threshold-selection provenance and source-PDF inconsistencies remain explicit. No code or benchmark input datasets are restored; local manuscripts/PDFs are untouched.
+
+按最新论文同步主结果、冻结阈值、跨核验器、HaluBench及统计说明；旧版另存，保留负结果与来源限制。未进行新训练、GPU推理或阈值搜索。主结果和外部表已用本地缓存核对，输入数据不重新上传。

@@ -40,7 +40,7 @@
   },
   "StatLR-2": {
     "feature": "StatLR-2",
-    "threshold": 0.5699999999999997,
+    "threshold": 0.54,
     "label": "hall",
     "model": {
       "mean": [
@@ -68,7 +68,7 @@
   },
   "StatLR-4": {
     "feature": "StatLR-4",
-    "threshold": 0.5599999999999997,
+    "threshold": 0.51,
     "label": "hall",
     "model": {
       "mean": [

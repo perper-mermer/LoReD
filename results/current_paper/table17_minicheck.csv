@@ -1,0 +1,4 @@
+verifier,method,macro_f1,bacc,hall_f1,auc
+MiniCheck-Flan-T5-Large,Fixed-Max,62.70,70.05,63.86,84.29
+MiniCheck-Flan-T5-Large,Tuned-Max,72.81,76.19,69.17,84.29
+MiniCheck-Flan-T5-Large,LoReD,71.93,73.97,66.64,81.94

@@ -1,0 +1,8 @@
+configuration,features,threshold,development_oof_macro_f1,test_macro_f1
+F0,max,0.54,70.87,69.64
+F1,max plus max_log_length,0.57,71.54,71.73
+F2,max plus max_log_length plus mean_log_length,0.54,75.07,74.63
+F3,max plus max_log_length plus mean_log_length plus run_ratio,0.55,74.83,73.31
+F4,max_log_length plus mean_log_length plus run_ratio,0.49,74.34,72.73
+StatLR-2,max plus mean,0.540,72.53,72.39
+StatLR-4,max plus mean plus std plus min,0.510,74.15,72.04

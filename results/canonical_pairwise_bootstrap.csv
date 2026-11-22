@@ -1,7 +1,5 @@
-﻿comparison,method_a,method_b,delta_macro_f1_pp,ci95_low_pp,ci95_high_pp,prob_gt_zero,p_plus_one,n_sources,n_bootstrap,seed,p_holm
-AB_vs_A,AB_LRDC,A_fixed_max,11.542688,9.82104,13.304929,1.0,0.0002,450,10000,20261020,0.0012
-AB_vs_L0,AB_LRDC,L0_calibrated_max,1.884135,0.367432,3.358025,0.9944,0.011399,450,10000,20261020,0.056994
-AB_vs_L3,AB_LRDC,L3_two_stat_lr,-0.842782,-2.019452,0.3042,0.0781,0.156384,450,10000,20261020,0.469153
-AB_vs_L4,AB_LRDC,L4_four_stat_lr,-1.594013,-2.931782,-0.271535,0.008,0.016198,450,10000,20261020,0.064794
-ABC_vs_L4,ABC_full,L4_four_stat_lr,-0.168191,-1.656877,1.284603,0.4156,0.831317,450,10000,20261020,0.831317
-ABC_vs_T2,ABC_full,T2_LRDC_plus_task,-0.457728,-1.300648,0.400748,0.1527,0.305569,450,10000,20261020,0.611139
+method_a,method_b,delta_macro_f1_pp,ci95_low_pp,ci95_high_pp,p_raw,p_holm,seed,n_resampling_units,unit_type,n_bootstrap,origin
+LoReD,Fixed-Max,11.5427,9.8606,13.2180,0.000200,0.000800,20261026,450,source_id,10000,reported_pdf_rounded
+LoReD,Tuned-Max,1.8841,0.4401,3.3530,0.013999,0.041996,20261026,450,source_id,10000,reported_pdf_rounded
+LoReD,StatLR-2,0.3363,-0.7284,1.4051,0.545145,0.607539,20261026,450,source_id,10000,reported_pdf_rounded
+LoReD,StatLR-4,0.6838,-0.5911,1.9549,0.303770,0.607539,20261026,450,source_id,10000,reported_pdf_rounded
